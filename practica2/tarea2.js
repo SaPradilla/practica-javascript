@@ -6,7 +6,7 @@ const añoNacimiento = new Date(2004,7,5);
 const libro = {
     nombre : "mi lucha",
     autor : "hitl**",
-    fecha : 1926,
+    fecha : new Date (1926,0,1),
     url : "https://www.casadellibro.com.co/libro-mi-lucha/9788494415623/2958118"
 };
 
