@@ -11,3 +11,5 @@ const libro = {
 };
 
 const lista = [nombre,edad,desarollador,añoNacimiento,libro];
+
+console.log(lista);
